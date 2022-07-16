@@ -2,7 +2,7 @@
 ![1](https://user-images.githubusercontent.com/108221893/179361963-5422209f-5148-43bc-b510-535207a518cd.png)
 Front 2D Wirefirame  
 ![front 2d wireframe](https://user-images.githubusercontent.com/108221893/179365192-3ea79dc3-5dd5-40aa-adc6-7f5514736c27.png)
-Left 2D Wireframe     
+Left 2D Wireframe  
 ![left 2d wireframe](https://user-images.githubusercontent.com/108221893/179365193-6574f1d7-bd7d-42da-96e4-391c517d3e9b.png)
 Isometric 2D Wireframe     
 ![isometric 2d wireframe](https://user-images.githubusercontent.com/108221893/179365194-5d8f23cd-3812-483c-a65f-5702ef4dc8bd.png)
