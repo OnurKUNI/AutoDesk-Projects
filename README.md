@@ -1,1 +1,4 @@
-# AutoDesk-Projects![Ekran görüntüsü 2022-06-26 150625](https://user-images.githubusercontent.com/108221893/175813303-a231b9ee-047f-41d0-9b7b-e26c8c29c69f.png)
+•The pieces in this project are the pieces I made for personal development.
+•Based on the reference photos I found at the beginning of my work, the parts were drawn with the given dimensions.
+•Currently, there are 17 sample pieces in my project.
+•These parts were drawn through the AutoCAD 2023 program.
